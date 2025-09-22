@@ -4,7 +4,7 @@
             "outputFile": "com.sr74.geoquiz.app-mergeDebugResources-2:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Stephen R\\.gradle\\caches\\8.13\\transforms\\fc6bc1cac3610a8d120680fa9ae5aef6\\transformed\\appcompat-1.7.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\Stephen R\\.gradle\\caches\\8.14.3\\transforms\\3b4fe63dc03ce28d20940ff262761a83\\transformed\\appcompat-1.7.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
